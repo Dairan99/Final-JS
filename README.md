@@ -6,7 +6,7 @@
 
 ## Установка
 
-1.  Склонируйте репозиторий: `git clone https://github.com/your-username/your-project.git`
+1.  Склонируйте репозиторий: https://github.com/Dairan99/Final-JS
 2.  Перейдите в директорию проекта: `cd stud_proj`
 
 ## Использование
